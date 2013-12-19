@@ -1,0 +1,10 @@
+Share and Enjoy
+---------------
+
+collective.googleplus.accounts would not have been possible without the
+contribution of the following people:
+
+* Julien Marinescu
+
+Development sponsored by Makina Corpus.
+
