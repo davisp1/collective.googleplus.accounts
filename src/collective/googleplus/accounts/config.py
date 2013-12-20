@@ -1,0 +1,2 @@
+
+PROJECTNAME = "collective.googleplus.accounts"
