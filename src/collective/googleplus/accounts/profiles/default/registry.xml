@@ -4,5 +4,6 @@
   <field type="plone.registry.field.Dict">
    <title>Google+ Accounts</title>
  </field>
+
  </record>
 </registry>
